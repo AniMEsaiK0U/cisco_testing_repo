@@ -1,3 +1,7 @@
 My name is ankit 
 Select * from employee
-Select * from dev
+<<<<<<< HEAD
+Select * from Devp
+=======
+Select * from Devp
+>>>>>>> features/dbtask
